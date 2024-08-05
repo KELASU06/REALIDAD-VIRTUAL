@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../TAREA-1-SUSY"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "A-frame_diplomado"
+	}
+}
